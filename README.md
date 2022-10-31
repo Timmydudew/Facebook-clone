@@ -1,2 +1,3 @@
-# Facebook-phisher
-It gets verification code of a user with just a link
+# Facebook clone
+Steal the code if you want to😎😑
+
